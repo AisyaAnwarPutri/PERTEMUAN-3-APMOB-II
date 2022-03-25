@@ -6,7 +6,7 @@ class PersonB (_firstName: String, _lastName: String, _age: Int) {
     var age: Int = _age
 }
 fun main(){
-    val budi = PersonB("Aisya Anwar", "Putri", 21)
-    println("Name : ${budi.firstName} ${budi.lastName}")
-    println("Age : ${budi.age}")
+    val aisya = PersonB("Aisya Anwar", "Putri", 21)
+    println("Name : ${aisya.firstName} ${aisya.lastName}")
+    println("Age : ${aisya.age}")
 }
