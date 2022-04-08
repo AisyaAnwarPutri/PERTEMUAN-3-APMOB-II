@@ -2,6 +2,8 @@ package id.ac.polbeng.Aisya.test_kelas
 
 import java.text.NumberFormat
 import java.util.*
+
+//14
 open class EmployeeD {
     // Gunakan pengubah "terbuka" untuk mengizinkan kelas anak menimpa properti ini
     open val baseSalary: Int = 3000000
